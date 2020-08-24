@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "/opt/conda/bin/python",
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/data-unversioned/**": true,
+        "**/data/**": true,
+        "**/__pycache__/**": true,
+    },
+    "remote.SSH.defaultExtensions": [
+        "ms-python.python",
+        "ionutvmi.path-autocomplete"
+    ]
+}
